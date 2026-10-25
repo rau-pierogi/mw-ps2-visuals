@@ -1,6 +1,10 @@
 # mw-ps2-visuals
 nfs most wanted visual treatment preset attempting to replicate ps2/og xbox version's visuals
 
+## screenshots
+![1st screenshot](screenshot01.png)
+
+
 ## requirements
 you've got to have these installed:
 
