@@ -3,6 +3,7 @@ nfs most wanted visual treatment preset attempting to replicate ps2/og xbox vers
 
 ## requirements
 you've got to have these installed:
+
 [widescreen fix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/nfsmw)
 
 [extra options mod](https://github.com/ExOptsTeam/NFSMWExOpts)
