@@ -1,0 +1,4 @@
+[VisualTreatment]
+EnableVisualTreatmentOverride = 1   // Enables all visual treatment tweaks in this section. (0 = False (Default), 1 = True)
+ColorBloomIntensity = 1.05          // Color Bloom amount for Visual Treatment. (Default = 1.75)
+BlackBloomIntensity = 0.53           // Black Bloom amount for Visual Treatment. (Default = 0.9)
