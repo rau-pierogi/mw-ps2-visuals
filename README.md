@@ -13,6 +13,6 @@ you've got to have these installed:
 [extra options mod](https://github.com/ExOptsTeam/NFSMWExOpts)
 
 ## installation
-just copy the code snippet and put it in -> scripts/NFSMWExtraOptionsSettings.ini
+just add the code snippet to your -> scripts/NFSMWExtraOptionsSettings.ini
 
 IMPORTANT: you'll need to have the `ConsoleGamma` parameter in the widescreen fix .ini set to `1`
