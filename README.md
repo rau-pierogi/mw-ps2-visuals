@@ -14,4 +14,5 @@ just copy the code snippet and paste it -> scripts/NFSMWExtraOptionsSettings.ini
 IMPORTANT: you'll need to have the `ConsoleGamma` parameter in the widescreen fix .ini set to `1`
 
 
+
 that's all there is to it
